@@ -1,0 +1,3 @@
+FPGA-based full-frame HDR image calculation in shared DDR memory space
+===
+
