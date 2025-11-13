@@ -3,15 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Whiznium CV Demonstrator documentation
-==========================================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Whiznium CV Demonstrator Documentation
+======================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   oview/index
+
+   setup/index
+
+   blog/index
+
+Release
+=======
+
+This documentation corresponds to Whiznium StarterKit version 1.2.6 and Whiznium StarterKit Device version 1.2.10, part of the 2025.2 Whiznium release.
+
+Last update: November 13, 2025.
